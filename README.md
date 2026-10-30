@@ -26,6 +26,8 @@ the present implementation must be recreated.
 
 The [first work-item pilot](pilots/2026-10-30-capability-discovery.md) records
 the actual capability-discovery change, review, timing, and its limitations.
+The [direction comparison](pilots/2026-10-30-direction-comparison.md) assesses
+the initial evidence and recommends the next bounded experiments.
 
 ## Working in this repository
 
