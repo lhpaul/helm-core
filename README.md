@@ -28,6 +28,8 @@ The [first work-item pilot](pilots/2026-10-30-capability-discovery.md) records
 the actual capability-discovery change, review, timing, and its limitations.
 The [direction comparison](pilots/2026-10-30-direction-comparison.md) assesses
 the initial evidence and recommends the next bounded experiments.
+The [Fleet and Helm Dev assessment](pilots/2026-10-30-fleet-grok-assessment.md)
+records node observations, integration boundaries and follow-up ownership.
 
 ## Working in this repository
 
