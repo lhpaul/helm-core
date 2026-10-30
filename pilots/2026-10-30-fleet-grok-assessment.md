@@ -84,7 +84,7 @@ supports Core.
 | --- | --- | --- |
 | MacBook | Local Helm workspace contains a Core entry pointing to an existing checkout. The local Fleet config has no Core project. | Workspace was inspected as a file, not opened in an editor. No Fleet Core run or capability validation. |
 | M6 | SSH worked; its Helm workspace Core entry resolves to a checkout. The Fleet config has no Core project; the Helm Dev isolated checkout directory had Helm and Helm Knowledge, but no Core checkout. The ordinary Core checkout was at `823cc07` when checked. | The shared workspace is not safe as Helm Dev's agent workspace under the existing brief. No Core agent session, editor open, running Fleet version or service validation. |
-| M2 | SSH timed out on this assessment. | Configuration, workspace, version and readiness unknown. Workspace follow-up remains [Core #11](https://github.com/lhpaul/helm-core/issues/11). |
+| M2 | SSH timed out during this assessment. | A later [workspace setup record](2026-10-30-m2-workspace.md) documents local-network access and checkout setup. Fleet configuration and runtime readiness remain unverified. |
 
 ## Before an integration is used
 
