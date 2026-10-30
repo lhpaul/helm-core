@@ -38,7 +38,8 @@ second reviewer when risk or project policy warrants it.
 An unavailable tool or reviewer, an incomplete check, or stale evidence is an
 unknown or blocked state, not a successful result. Use another suitable tool
 if authorized and available. Do not replay an uncertain remote mutation until
-its effect has been checked.
+its effect has been checked. Use the [interruption recovery guide](interruption-recovery.md)
+to assess a safe continuation.
 
 ## Finish honestly
 
