@@ -24,6 +24,9 @@ mockup-to-spec references and human-reviewed work proposals from living mockup
 changes. Findings should inform Helm's product direction without assuming that
 the present implementation must be recreated.
 
+The [first work-item pilot](pilots/2026-10-30-capability-discovery.md) records
+the actual capability-discovery change, review, timing, and its limitations.
+
 ## Working in this repository
 
 Read [AGENTS.md](AGENTS.md), the [agent work contract](agent-work-contract.md),
