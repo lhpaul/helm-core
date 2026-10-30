@@ -10,6 +10,8 @@ the target project's applicable rules take precedence.
 Read the request, relevant project instructions, work item if one exists, and
 enough repository context to understand the intended outcome. Identify the
 repository, affected users or consumers, constraints, and available tools.
+Use [capability discovery](capability-discovery.md) when tracker, reviewer, or
+other project access is needed.
 Use judgment for routine choices and continue independent work when an answer
 is missing. Ask when a requirement or decision cannot be inferred safely.
 

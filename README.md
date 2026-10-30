@@ -27,7 +27,9 @@ the present implementation must be recreated.
 ## Working in this repository
 
 Read [AGENTS.md](AGENTS.md), the [agent work contract](agent-work-contract.md),
-then the relevant work item and project context.
+and the relevant work item and project context. Use
+[capability discovery](capability-discovery.md) to identify the project's tools
+and report missing access honestly.
 Changes go through pull requests targeting `develop`. Use Conventional Commits.
 Use tests or other checks appropriate to the change and report what was actually
 verified. This bootstrap does not yet provide an implementation or runtime.
