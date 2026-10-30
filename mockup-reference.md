@@ -53,5 +53,6 @@ The [illustrative spec](examples/specs/review-handoff.md) refers to an actual
 repository mockup. It demonstrates a living source and its reviewed digest;
 the screen is a sample for this work, not an approved product design. A
 snapshot can use the same fields with a fixed attachment or versioned file
-instead. Proposing work from a mockup diff is a separate capability; any item
-creation still requires the agreed human confirmation.
+instead. For design-led work, use the
+[mockup work proposal guide](mockup-work-proposals.md); any item creation still
+requires the agreed human confirmation.

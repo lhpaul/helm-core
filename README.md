@@ -34,7 +34,9 @@ and the relevant work item and project context. Use
 [capability discovery](capability-discovery.md) to identify the project's tools
 and report missing access honestly. For visual product work, use the
 [mockup reference guide](mockup-reference.md) to carry the selected design into
-the spec and subsequent work.
+the spec and subsequent work. For a living design change, use the
+[work proposal guide](mockup-work-proposals.md) to prepare a breakdown for human
+review before creating items.
 Changes go through pull requests targeting `develop`. Use Conventional Commits.
 Use tests or other checks appropriate to the change and report what was actually
 verified. This bootstrap does not yet provide an implementation or runtime.
