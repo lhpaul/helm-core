@@ -26,7 +26,8 @@ the present implementation must be recreated.
 
 ## Working in this repository
 
-Read [AGENTS.md](AGENTS.md), then the relevant work item and project context.
+Read [AGENTS.md](AGENTS.md), the [agent work contract](agent-work-contract.md),
+then the relevant work item and project context.
 Changes go through pull requests targeting `develop`. Use Conventional Commits.
 Use tests or other checks appropriate to the change and report what was actually
 verified. This bootstrap does not yet provide an implementation or runtime.
